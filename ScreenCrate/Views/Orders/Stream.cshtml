@@ -1,0 +1,69 @@
+﻿@model Movie
+
+@{
+    ViewData["Title"] = "Streaming Window";
+}
+
+<style>
+
+.background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('@ViewBag.ImageURL');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: blur(10px);
+    z-index: 1;
+}
+
+.blur-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: none;
+    z-index: 2;
+}
+
+.content {
+    position: relative;
+    z-index: 3;
+}
+
+</style>
+
+
+<div class="background-image">
+    <div class="blur-overlay"></div>
+</div>
+<div class="content">
+    <div class="col-lg-10" style="display: block; margin: 0 auto;">
+        <h3 style="color: white; font-family:'Footlight MT' ;">You're currently watching: 
+            <span style="font-family: Bahnschrift, Bahnschrift SemiBold Condensed">@ViewBag.Name</span>
+        </h3>
+        <video controls align="center" width="1280" height="720">
+            <source src="@Url.Content(@ViewBag.MovieURL)" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
+
+
+
+@section Scripts{
+    <script>
+    console.log("Movie URL in streaming class:", '@Url.Content(@ViewBag.MovieURL)');
+
+    $("#ImageURL").on("change", function () {
+        var output = document.getElementById("ImageUrlPreview");
+        output.src = $(this).val();
+    })
+    </script>
+}

@@ -1,0 +1,322 @@
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\appsettings.json
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.exe
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.deps.json
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.runtimeconfig.json
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.runtimeconfig.dev.json
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ref\ScreenCrate.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.Views.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.Views.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.AssemblyInfoInputs.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.AssemblyInfo.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.CoreCompileInputs.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorAssemblyInfo.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorAssemblyInfo.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\staticwebassets\ScreenCrate.StaticWebAssets.Manifest.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\staticwebassets\ScreenCrate.StaticWebAssets.xml
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\scopedcss\bundle\ScreenCrate.styles.css
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.TagHelpers.input.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.TagHelpers.output.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorCoreGenerate.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorTargetAssemblyInfo.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorTargetAssemblyInfo.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.Views.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.CopyComplete
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ref\ScreenCrate.dll
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.pdb
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.genruntimeconfig.cache
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.AssemblyReference.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\appsettings.Development.json
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\appsettings.json
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.exe
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.deps.json
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.runtimeconfig.json
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.runtimeconfig.dev.json
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ref\ScreenCrate.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.Views.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.Views.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Humanizer.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.AssemblyReference.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.AssemblyInfoInputs.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.AssemblyInfo.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.CoreCompileInputs.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.MvcApplicationPartsAssemblyInfo.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorAssemblyInfo.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorAssemblyInfo.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\staticwebassets\ScreenCrate.StaticWebAssets.Manifest.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\staticwebassets\ScreenCrate.StaticWebAssets.xml
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\scopedcss\bundle\ScreenCrate.styles.css
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.TagHelpers.input.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.TagHelpers.output.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorCoreGenerate.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorTargetAssemblyInfo.cache
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorTargetAssemblyInfo.cs
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.Views.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.CopyComplete
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ref\ScreenCrate.dll
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.pdb
+D:\Pendrive\CSE 3200\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.genruntimeconfig.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\appsettings.json
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.exe
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.deps.json
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.runtimeconfig.json
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.runtimeconfig.dev.json
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ref\ScreenCrate.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.Views.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\ScreenCrate.Views.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.AssemblyReference.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.AssemblyInfoInputs.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.AssemblyInfo.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.CoreCompileInputs.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorAssemblyInfo.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorAssemblyInfo.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\staticwebassets\ScreenCrate.StaticWebAssets.Manifest.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\staticwebassets\ScreenCrate.StaticWebAssets.xml
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\scopedcss\bundle\ScreenCrate.styles.css
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.TagHelpers.input.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.TagHelpers.output.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorCoreGenerate.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Create.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Create.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Delete.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Details.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Edit.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorTargetAssemblyInfo.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.RazorTargetAssemblyInfo.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.Views.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.csproj.CopyComplete
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ref\ScreenCrate.dll
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.pdb
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\ScreenCrate.genruntimeconfig.cache
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\Stream.cshtml.g.cs
+C:\Users\fdipt\Documents\Visual Studio 2019\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Random Admin\source\repos\ScreenCrate\ScreenCrate\obj\Debug\net5.0\Razor\Views\Orders\Stream.cshtml.g.cs

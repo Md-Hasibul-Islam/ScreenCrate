@@ -1,0 +1,84 @@
+﻿@using ScreenCrate.Models;
+@model IEnumerable<Movie>
+
+@{
+    ViewData["Title"] = "List of Movies";
+}
+
+<style>
+    .card {
+        margin-top: 1em;
+        padding: 0.5em;
+        border-radius: 1em;
+        text-align: center;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+    }
+
+    .card .card-title {
+        font-weight: 700;
+        font-size: 1.2em;
+    }
+
+    .card .btn {
+        border-radius: 1em;
+        background-color: teal;
+        color: #ffffff;
+        padding: 0.3em 1em;
+    }
+
+    .card .btn:disabled {
+        background-color: gray;
+        cursor: not-allowed;
+    }
+</style>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 col-xs-6 mb-3">
+            <div class="card mb-3">
+                <img src="@item.ImageURL" class="card-img-top" alt="@item.Name">
+                <h1 class="card-title" style="margin-top:10px;">
+                    @item.Name
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <a class="text-black float-right" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                    }
+                </h1>
+                <div class="card-body">
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text" style="font-family:serif"><i>Brought to you by, @item.Cinema.Name</i></p>
+                    <p class="card-text"><b>Category: </b>@item.MovieCategory</p>
+                    <p class="card-text"><b>Release Date: </b>@item.StartDate.ToString("dd MMM yy")</p>
+                </div>
+                <div class="card-footer">
+                    <p class="card-text">
+                        <a class="btn btn-outline-primary float-right" asp-action="Details" asp-route-id="@item.Id">
+                            <i class="bi bi-eye-fill"></i> Show Details
+                        </a>
+                        @if (true)
+                        {
+                            <a class="btn btn-info text-white"
+                               asp-controller="Orders"
+                               asp-action="AddItemToShoppingCart"
+                               asp-route-id="@item.Id">
+                                <i class="bi bi-cart-plus"></i> Add to Cart (Price ৳@item.Price)
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-info text-white"
+                               asp-controller="Orders"
+                               asp-action="AddItemToShoppingCart"
+                               asp-route-id="@item.Id">
+                                <i class="bi bi-cart-plus"></i> Add to Cart (Price ৳@item.Price)
+                            </a>
+                        }
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@await Html.PartialAsync("_CreateItem", "Movies")

@@ -1,0 +1,72 @@
+﻿@model List<Order>
+
+@{ 
+    ViewData["Title"] = "List of Orders";
+}
+
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h3>List of movies you currently own</h3>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Order ID</th>
+                    <th>Movie Name</th>
+                    <th>Paid Amount</th>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("User"))
+                    {
+                        <th></th>
+                    }
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <th>User</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                <tr>
+                    <td class="align-middle">@order.Id</td>
+
+                    <td class="align-middle">
+                        <ul style="list-style-type:none">
+                            @foreach (var item in order.OrderItems)
+                            {
+                <li style="margin-left:-45px; margin-right:45px;">
+                    <div class="alert alert-info" role="alert">
+                        <!--<span class="badge bg-success">@item.Amount</span> [৳@item.Price.ToString("c")]--><b>@item.Movie.Name</b>
+                    </div>
+                </li>}
+                        </ul>
+                    </td>
+
+                    <td class="align-middle">
+                        ৳@order.OrderItems.Select(m => m.Movie.Price * m.Amount).Sum()<!--.ToString("c")-->
+                    </td>
+
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("User"))
+                    {
+                        <td class="align-left">
+                        @foreach (var item in order.OrderItems)
+                        {
+                            <a class="btn btn-outline-danger float-right" href="@Url.Action("Stream", new { id = item.Movie.Id })">
+                                <i class="bi bi-collection-play"></i> Stream Now
+                            </a>
+                        }
+                        </td>
+
+                    }
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <td class="align-middle"> @order.User.FullName </td>}
+                        </tr>
+                    }
+            </tbody>
+        </table>
+
+    </div>
+</div>
